@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Hello World"
-permalink: hello-world
+permalink: blockchainsandbarbells/hello-world
 ---
 
 This is a test
